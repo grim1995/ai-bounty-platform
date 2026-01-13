@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "SKIP_ENV_VALIDATION": "true" 
+      "SKIP_ENV_VALIDATION": "true"
     }
   },
   "crons": [
